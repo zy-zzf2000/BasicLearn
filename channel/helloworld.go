@@ -2,6 +2,6 @@ package channel
 
 import "fmt"
 
-func hello() {
+func Hello() {
 	fmt.Print("hello,world!")
 }
